@@ -5,7 +5,7 @@ HP Inc. grommet theme
 ## Installation
 
 ```
-  $ yarn install grommet-theme-hp
+  $ yarn add grommet-theme-hp
 ```
 
 ## Usage
