@@ -18,7 +18,10 @@ export const hp = deepFreeze({
     colors: {
       background: '#ffffff',
       brand: '#0096D6',
-      control: '#0096D6',
+      control: {
+        dark: '#00A8F0',
+        light: '#0096D6',
+      },
       focus: '#99d5ef',
       'neutral-1': '#006996',
       'neutral-2': '#A65336',
@@ -51,7 +54,10 @@ export const hp = deepFreeze({
     },
   },
   anchor: {
-    color: '#2883d7',
+    color: {
+      dark: '#00A8F0',
+      light: '#2883d7',
+    },
   },
   button: {
     extend: css`
