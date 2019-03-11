@@ -16,3 +16,7 @@ import { hp } from 'grommet-theme-hp';
 
 <Grommet theme={hp} />
 ```
+
+## Sample
+
+![Sample](./sample.png)
